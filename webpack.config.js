@@ -5,7 +5,9 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'build'),
     filename: 'index.js',
-    library: 'index',
+    library: { 
+      type: "module",
+    },
     globalObject: "this",
     libraryTarget: 'commonjs2'
   },
@@ -29,5 +31,8 @@ module.exports = {
         loader: 'babel-loader',
       }
     ]
-  }
+  },
+  experiments: {
+    outputModule: true,
+  },
 };
