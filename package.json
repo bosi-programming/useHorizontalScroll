@@ -1,6 +1,7 @@
 {
   "name": "use-horizontal-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "keywords": ["React", "Hooks", "Scroll"],
   "description": "Hook that adds an horizontal draggable scroll to any element",
   "main": "build/index.js",
   "author": "Felipe Azevedo Bosi",
