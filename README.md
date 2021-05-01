@@ -21,6 +21,10 @@ export default function BasicTable() {
       ...
       </TableContainer>
     </RootRef>
+  )
+}  
 ```
 
 ![](./readmeImages/example.gif)
+
+See example in action at: https://zibmx.csb.app/
