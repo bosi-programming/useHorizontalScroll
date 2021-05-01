@@ -4,6 +4,8 @@
   "description": "Hook that adds an horizontal draggable scroll to any element",
   "main": "build/index.js",
   "author": "Felipe Azevedo Bosi",
+  "url": "https://github.com/bosifullstack/useHorizontalScroll",
+  "email": "bosibackend@protonmail.com",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production",
