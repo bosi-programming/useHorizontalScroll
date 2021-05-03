@@ -1,11 +1,19 @@
 {
   "name": "use-horizontal-scroll",
   "version": "1.0.2",
-  "keywords": ["React", "Hooks", "Scroll"],
+  "keywords": [
+    "React",
+    "Hooks",
+    "Scroll"
+  ],
   "description": "Hook that adds an horizontal draggable scroll to any element",
   "main": "build/index.js",
   "author": "Felipe Azevedo Bosi",
-  "url": "https://github.com/bosifullstack/useHorizontalScroll",
+  "homepage": "https://github.com/bosifullstack/useHorizontalScroll",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bosifullstack/useHorizontalScroll"
+  },
   "email": "bosibackend@protonmail.com",
   "license": "MIT",
   "scripts": {
